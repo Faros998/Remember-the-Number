@@ -1,9 +1,11 @@
-
   /* DARK MODE */
-  .dark-mode {background-color: white;
+  .dark-mode {background-color: #8888883f;
     color: black;
 }
 
+.nav-item{background-color: #8888883f;
+    color: green;
+}
 
 
 
